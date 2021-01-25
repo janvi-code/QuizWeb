@@ -1,0 +1,38 @@
+#header{
+    background-color: black;
+}
+#heading{
+    color: antiquewhite;
+    text-align: center;
+}
+#body{
+    background-color: thistle;
+}
+#submit{
+    background-color: yellow;
+    color: black; 
+    height:35px;
+    width:80px;
+    border-radius: 4px;
+}
+#ans{
+
+    height:35px;
+    width:100px;
+}
+#innerDiv{
+    background-color: antiquewhite;
+    width: 700px;
+    height: 300px;
+    border-radius: 10px;
+    padding: 20px;
+}
+#answerBoard{
+    background-color: antiquewhite;
+    border-radius: 10px; 
+    width: 700px;
+    padding: 5px;
+}
+.highlight {
+    background-color: green;
+  }
